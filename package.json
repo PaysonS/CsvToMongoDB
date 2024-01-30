@@ -1,0 +1,14 @@
+{
+  "name": "csvtomongodb",
+  "version": "1.0.0",
+  "description": "Input csv data into mongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Payson Story",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.3.0"
+  }
+}
